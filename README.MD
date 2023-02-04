@@ -1,6 +1,6 @@
-st - simple terminal
---------------------
-st is a simple terminal emulator for X which sucks less.
+Custom build of st 0.9
+====================
+WIP
 
 
 Requirements
