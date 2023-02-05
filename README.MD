@@ -1,6 +1,7 @@
 Custom build of st 0.9
 ====================
-WIP
+This build uses:
+- boxdraw
 
 
 Requirements

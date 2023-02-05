@@ -1,0 +1,7 @@
+st.o
+x.o
+boxdraw.o
+config.h
+st
+*.orig
+*.rej
