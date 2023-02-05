@@ -7,6 +7,7 @@ This build uses:
 - ligatures support
 - externalpipe
 - scrollback with mouse support
+- transparency (alpha, alphaUnfocused from Xresources)
 
 Requirements
 ------------
