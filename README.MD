@@ -4,6 +4,7 @@ This build uses:
 - boxdraw
 - xresources
 - emoji support (see font2 and glyph-wide-support-boxdraw patches)
+- ligatures support
 
 Requirements
 ------------

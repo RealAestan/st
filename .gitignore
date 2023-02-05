@@ -1,6 +1,4 @@
-st.o
-x.o
-boxdraw.o
+*.o
 config.h
 st
 *.orig
