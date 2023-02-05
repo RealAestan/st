@@ -5,6 +5,7 @@ This build uses:
 - xresources
 - emoji support (see font2 and glyph-wide-support-boxdraw patches)
 - ligatures support
+- externalpipe
 
 Requirements
 ------------
