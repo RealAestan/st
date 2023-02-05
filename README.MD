@@ -6,6 +6,7 @@ This build uses:
 - emoji support (see font2 and glyph-wide-support-boxdraw patches)
 - ligatures support
 - externalpipe
+- scrollback with mouse support
 
 Requirements
 ------------
