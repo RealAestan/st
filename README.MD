@@ -2,6 +2,7 @@ Custom build of st 0.9
 ====================
 This build uses:
 - boxdraw
+- xresources
 - emoji support (see font2 and glyph-wide-support-boxdraw patches)
 
 Requirements
